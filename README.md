@@ -118,6 +118,4 @@ In this step, I will make my site publicly acessible and live on the Internet
 
 To resolve this 403 Forbidden error, I selected the objects tab on my buckets page and then selected the actions dropdown menu and then I selected the "make public using ACL" option.
 
-![Image](http://learn.nextwork.org/thankful_silver_mysterious_mulberry/uploads/aws-host-a-website-on-s3_5d4474f9)
-
 ---
